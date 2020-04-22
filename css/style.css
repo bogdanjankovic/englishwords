@@ -1,0 +1,49 @@
+*{
+    margin:0px;
+    padding:0px;
+    
+}
+body{
+    background-color:rgb(254, 233, 234);
+    color:rgb(64, 64, 64);
+    font-weight: bold;
+    font-size: 4vw;
+    padding:2%;
+}
+hr{
+    height:4px;
+    background-color:rgb(64, 64, 64);
+}
+.container{
+    
+    background-color:#fff;
+    margin:0px auto;
+    width:90%;
+    padding:2%;
+    box-shadow: 10px 10px 21px -9px rgba(0,0,0,0.75);
+}
+h1{
+    padding:2%;
+    font-size: 6vw;
+}
+span{
+    color:rgb(43, 172, 238);
+}
+p{
+    color:rgb(255, 139, 0);
+}
+ul{
+    padding:4%;
+}
+div{
+    background-color:rgb(254, 233, 234);
+    width:100%;
+    margin-top:1%;
+}
+td{
+    width:66%;
+    padding:2%;
+}
+tr{
+    border-bottom: 0.1vw dotted rgb(64, 64, 64) ;
+}

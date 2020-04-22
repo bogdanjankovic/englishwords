@@ -54,10 +54,10 @@ tr{
     position:fixed;
     bottom:0;
     right:0;
-    min-height: 3vw;
+    min-height: 5vw;
     background-image: url("../strelica.png");
     background-repeat:no-repeat;
     background-size: cover;
-    width:3%;
+    width:5%;
     opacity: 0.9;
 }
